@@ -20,6 +20,3 @@ Software Engineer at [Rokt](https://www.rokt.com) with experience in full-stack 
 ## 🌐 Links
 - Portfolio: [nickyim.vercel.app](https://nickyim.vercel.app)
 - LinkedIn: [linkedin.com/in/nicholas-yim/](https://www.linkedin.com/in/nicholas-yim/)
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nickyim&show_icons=true&theme=dark)
