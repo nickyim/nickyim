@@ -11,11 +11,9 @@ Software Engineer at [Rokt](https://www.rokt.com) with experience in full-stack 
 - Focus areas: Full-stack development, AI/ML, Data Engineering
 
 ## 🛠️ Tech Stack
-- **Languages:** TypeScript, Python, Java, Go
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, REST APIs
-- **Data:** SQL, Data pipelines
-- **Tools:** Git, Docker, AWS
+- **Languages:** .NET (C#), Python, Java, TypeScript
+- **Data:** SQL, Spark, Airflow
+- **Tools:** AWS, Docker/K8s
 
 ## 🌐 Links
 - Portfolio: [nickyim.vercel.app](https://nickyim.vercel.app)
